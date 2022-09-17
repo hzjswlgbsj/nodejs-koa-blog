@@ -10,6 +10,6 @@ module.exports = {
   security: {
     secretKey: "secretKey",
     // 过期时间 1小时
-    expiresIn: 60 * 60
+    expiresIn: 60 * 60 * 24
   }
 }
