@@ -72,7 +72,7 @@ $ npm install 或者 yarn install
 $ npm run dev 或者 yarn dev
 ```
 
-打开浏览器输入回车：http://localhost:5000 可以看到服务端渲染的前端网站，当然可能该网站是个空数据网站，可以查看目录下的 `./app/api/v1` 下的接口或者看 doc 目录下的 markdown 接口文档，在 postman 测试接口。
+打开浏览器输入回车：http://localhost:8888 可以看到服务端渲染的前端网站，当然可能该网站是个空数据网站，可以查看目录下的 `./app/api/v1` 下的接口或者看 doc 目录下的 markdown 接口文档，在 postman 测试接口。
 
 
 以下是启动后台管理系统的操作命令：
